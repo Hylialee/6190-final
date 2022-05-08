@@ -5,3 +5,5 @@ Currently, the project only has partially implemented sensors, you can test out 
 
 For example this video should cause the algorithm to start reading data correctly (note that the video file's pixels may be slightly distorted causing slightly incorrect values) https://www.youtube.com/watch?v=IE6xdK2h5GU
 
+If you grade this final by the time more things are implented, congrats! Otherwise I apologize for not implementing everything by the time you check this.
+
